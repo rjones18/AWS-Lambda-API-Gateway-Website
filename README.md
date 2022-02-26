@@ -1,4 +1,4 @@
-# AWS-Lambda-Static-Site
+# AWS-Lambda-API-Gateway-Website
 In this project I created a simple HTML website using AWS Lambda and AWS API Gateway. AWS X-Ray is being used to trace and analyze user requests as they travel through the Amazon API Gateway to the underlying Lambda function. I also created a custom domain name for the API using Route 53 and assigned it a SSL Certificate using Certificate Manager.
 
 Link to Website: https://api.reggiestestdomain.com/
